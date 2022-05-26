@@ -10,11 +10,13 @@ Musical instruments emphasizer and this helps biomedical applications like heari
   <img src="screen%20shots/screen%202.png" width=50%/>
 </p>
 
-Introduction: Music industry is one of the major application fields of digital signal processing. Songs consist of music and 
+## Introduction:
+Music industry is one of the major application fields of digital signal processing. Songs consist of music and 
 vocal, and both of them are just mixture of different frequencies. Manipulating different frequency ranges in a signal is a 
 broad family of functionality called “Signal Equalizer”. While Ssund equalizer is a basic tool in the music industry, it also 
 serves in several biomedical applications like hearing aid industry
-Description: Develop and application for musical instruments emphasizer where:
+## Description:
+Develop and application for musical instruments emphasizer where:
 - The user can open any music file, and play/pause it as a signal (i.e. in a graph) while hearing it. i.e. your 
 application should send the signal to the sound output to be heard.
 - The user can control the volume of the music from inside the program (you need to add the proper ui 
