@@ -1,11 +1,14 @@
 # Music-Equalizer
+
 Musical instruments emphasizer and this helps biomedical applications like hearing aid industry
 
 |||
 | ------------- | ------------- |
-| [](screen%20shots/screen%201.png) | [](screen%20shots/screen%202.1.png)  |
-| [](screen%20shots/screen%202.png) | [](screen%20shots/screen%203.png) |
+| ![](screen%20shots/screen%201.png) | ![](screen%20shots/screen%202.1.png)  |
 
+<p align="center">
+  <img src="screen%20shots/screen%202.png" width=50%/>
+</p>
 
 Introduction: Music industry is one of the major application fields of digital signal processing. Songs consist of music and 
 vocal, and both of them are just mixture of different frequencies. Manipulating different frequency ranges in a signal is a 
